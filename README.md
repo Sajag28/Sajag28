@@ -10,11 +10,8 @@
 - 💞️ I’m looking to collaborate on new projects which innovate and solve real life challanges for better world.
 - 
 - 📫 How to reach me?
-- 
 - This is my linkedin profile link- https://www.linkedin.com/in/sajag-agrawal-6668a8214/ 
-- 
 - This is my mail id- 
-- 
 - sajagaga2806@gmail.com,
   sajagagrawal28@gmail.com
 -              
