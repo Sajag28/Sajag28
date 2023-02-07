@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sajag28 pursuing BTech in Electronics and Communication Engineering at VIT Vellore, Katpadi, Vellore, Tamil Nadu, India. 
+- 👋 Hi, I’m @Sajag28 pursuing BTech in Computer Science Engineering with Specialisation in Internet of Things at VIT Vellore, Katpadi, Vellore, Tamil Nadu, India. 
 -         Currently I am core committee member at VITMAS, Tech domain.
--         I am a 1st year student.
--         Also the member of VIT Leo Club, CSED VIT and AEE VIT.
+-         I am a 2nd year student.
+-         Also the member of Developer's Student Club, Linux User's Group, Mozilla Firefox Club at VIT Vellore
 -         Other than academic part, my hobbies are playing carrom, watching standup comedy, drawing and bit of analysing parts and doing experiments with them which is a pure engineer's trait.
 - 👀 I’m interested in Research, working on web developments, AI and Internet of things along with the knowledge of Python frameworks especially Django and Web2py. Along with new language libraries.
 - 
