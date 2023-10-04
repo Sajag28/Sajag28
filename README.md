@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sajag Agrawal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer and cyber security enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajag28&label=Profile%20views&color=0e75b6&style=flat" alt="sajag28" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajag28" alt="sajag28" /></a> </p>
 
-- 🔭 I’m currently working on **Travel Mate- Student Guide Website**
+- 🔭 I’m currently working on **Travel Mate- Student Guide Website & Hostel View**
 
-- 🌱 I’m currently learning **Node Js, Next Js, Express Js**
+- 🌱 I’m currently learning **Node Js, Next Js, Express Js, Mongo DB, Cyber Frameworks, Wireshark,Metasploit**
 
 - 👯 I’m looking to collaborate on **VIT Robovitics Project**
 
-- 🤝 I’m looking for help with **Hostel Buddy Website**
+- 🤝 I’m looking for help with **Hostel View Website**
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Git,Figma,Canva,Javascript,ReactJs**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Git,Figma,Canva,Javascript,ReactJs,MERN Stack, Generative AI, Kali Linux, Cyber Tools,LLM**
 
 - 📫 How to reach me **sajagaga2806@gmail.com**
 
-- ⚡ Fun fact **I think I am a good motivator to individual.**
+- ⚡ Fun fact **I think I am a good motivator to individual and a tough competitor seeking for multiple oppurtunities.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
