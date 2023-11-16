@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajag Agrawal</h1>
-<h3 align="center">A passionate fullstack developer and cyber security enthusiast from India</h3>
+<h3 align="center">A passionate fullstack developer and Machine Learning + Gen AI enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajag28&label=Profile%20views&color=0e75b6&style=flat" alt="sajag28" /> </p>
 
