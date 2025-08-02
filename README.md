@@ -1,42 +1,83 @@
 
+<div align="center">
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
+</div>
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=SAJAG%20AGRAWAL%20&text2=Backend%20+%20Fullstack%20Developer%20|%20Fintech,%20GenAI,%20and%20IoT%20Projects%20|%20Accenture%20AEH%20&width=900&height=400)
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<p align='center'>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Sajag28.https://github.com/Sajag28)
 
-<img height="auto" src="https://komarev.com/ghpvc/?username=Sajag28&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+</p>
+<div size='20px'> Hi! My name is Sajag Agrawal. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
+<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-
-<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
-
-
-
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Sajag28&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
-
-- Worked on [BharatRides](https://github.com/Sajag28/Bharatrides_new.git)
-
-- Worked on [Safe Portal Backend](https://github.com/Sajag28/FlightPortal_backend.git)
-
-- 🌱 I’m currently learning **Spring Boot, Advanced Java, and the Spring ecosystem (IoC, JPA, Security) — while also deep diving into GenAI development using Langchain, LLMs, and voice AI tools like Whisper AI and ElevenLabs.**
-
-- 💬 Ask me about **Building secure backend systems with Django or Spring Boot, integrating GenAI into real products, or how to turn academic projects into full-blown platforms.**
-
-- 😂 Func Fact **I once built an AI-driven ticketing portal with real-time stampede alerts, RFID validation, and QR + geo filters — inspired by a real crowd management problem at a railway station!**
-
-- 📫 How to reach me **devbysajag@gmail.com**
-
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/Sajag28" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/sajag-agrawal-6668a8214/" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://instagram.com/destination_aimer0032" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://www.codechef.com/users/sajagaga2806" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://www.hackerrank.com/sajagaga2806" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://www.leetcode.com/ak_goel_2806" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://discord.gg/destination_aimer" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
-
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href=https://appwrite.io target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://www.arduino.cc/ target="_blank" rel="noreferrer"> <img src=https://cdn.worldvectorlogo.com/logos/arduino-1.svg alt="android" width="40" height="40"/> </a> <a href=https://aws.amazon.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://getbootstrap.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cpp/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/css/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.djangoproject.com/ target="_blank" rel="noreferrer"> <img src=https://cdn.worldvectorlogo.com/logos/django.svg alt="android" width="40" height="40"/> </a> <a href=https://expressjs.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://firebase.google.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://git-scm.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3.org/html/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.java.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mongodb.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mysql.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://nextjs.org/ target="_blank" rel="noreferrer"> <img src=https://cdn.worldvectorlogo.com/logos/nextjs-2.svg alt="android" width="40" height="40"/> </a> <a href=https://nodejs.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://pandas.pydata.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.php.net target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.postgresql.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://postman.com target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://www.python.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt="android" width="40" height="40"/> </a> <a href=https://reactjs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://scikit-learn.org/ target="_blank" rel="noreferrer"> <img src=https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg alt="android" width="40" height="40"/> </a> <a href=https://seaborn.pydata.org/ target="_blank" rel="noreferrer"> <img src=https://seaborn.pydata.org/_images/logo-mark-lightbg.svg alt="android" width="40" height="40"/> </a> <a href=https://spring.io/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/springio/springio-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://tailwindcss.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://www.tensorflow.org target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://www.typescriptlang.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt="android" width="40" height="40"/> </a> </p>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
+- 🔭 I’m currently working on A Java-based fintech backend project using Spring Boot, where I’m designing modular REST APIs, handling secure authentication, and integrating future-ready GenAI components like Langchain and RAG.
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Sajag28&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+- 🌱 I’m currently learning Spring Boot, Advanced Java, and the Spring ecosystem (IoC, JPA, Security) — while also deep diving into GenAI development using Langchain, LLMs, and voice AI tools like Whisper AI and ElevenLabs. 
+
+- 👯 I’m looking to collaborate on Open-source backend systems, GenAI-powered applications, or full-stack platforms that solve real-world problems — especially in fintech, logistics, or automation domains. 
+
+- 💬 Talk to me about 🔧 Building scalable backend systems with Spring Boot or Django
+🧠 Integrating LLMs into real products using Langchain, RAG, Whisper AI, and ElevenLabs
+💡 Turning ideas into real-world applications — from concept to deployment
+💰 Exploring fintech, automation, and AI-powered tools that solve practical problems
+🚀 Collaborating on startup MVPs, automation projects, or API-first platforms
+🎯 Career growth, project roadmaps, and tech strategy for early-career developers
+ 
+
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=tensorflow&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
+<a href= https://github.com/https://github.com/Sajag28?tab=repositories&q=&type=&language=nuxtjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nuxtjs.svg'> </a>
 
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/sajag-agrawal-6668a8214/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://sajag-portfolio-site.netlify.app'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/https://github.com/Sajag28'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=Sajag28&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+
+<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
+</a>
+<br>
 
 
+<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajag28&theme=dark&hide_border=false" alt="profile-radme-generator" />
+![Metrics](https://metrics.lecoq.io/https://github.com/Sajag28?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+
+<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+
+<br>
+<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
